@@ -1,0 +1,1 @@
+Translate is a simple but powerful translation tool written in python with with support for multiple translation providers. By now we are integrated with Microsoft Translation API and Translated MyMemory API

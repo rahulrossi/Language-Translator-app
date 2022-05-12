@@ -1,0 +1,1 @@
+Translate는 파이썬으로 작성된 간단하지만 강력한 번역 도구로, 여러 번역 제공업체를 지원합니다. 현재 Microsoft Translation API 및 Translated MyMemory API와 통합되어 있습니다.
